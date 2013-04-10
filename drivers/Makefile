@@ -1,7 +1,7 @@
 #
 # Makefile for the Linux kernel device drivers.
 #
-# 15 Sep 2000, Christoph Hellwig <hch@infradead.org>
+# 10 APRIL 2012, Christoph Hellwig <hch@infradead.org> (Edit by NowenUi)
 # Rewritten to use lists instead of if-statements.
 #
 
