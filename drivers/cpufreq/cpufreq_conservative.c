@@ -1,7 +1,7 @@
 /*
  *  drivers/cpufreq/cpufreq_conservative.c
  *
- *  Copyright (C)  2001 Russell King
+ *  Copyright (C)  2013 NowenUI (Edited!!!)
  *            (C)  2003 Venkatesh Pallipadi <venkatesh.pallipadi@intel.com>.
  *                      Jun Nakajima <jun.nakajima@intel.com>
  *            (C)  2009 Alexander Clouter <alex@digriz.org.uk>
